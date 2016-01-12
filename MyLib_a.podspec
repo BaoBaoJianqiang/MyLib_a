@@ -1,7 +1,7 @@
 
 
 Pod::Spec.new do |s|
-  s.name         = "MyLib"
+  s.name         = "MyLib_a"
   s.version      = "0.0.6"
   s.summary      = "MyLib supply .a file"
   s.description  = <<-DESC
