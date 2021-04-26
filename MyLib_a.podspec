@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "6.0"
   s.license      = "MIT"
   s.author             = { "jianqiang.bao" => "16230091@qq.com" }
-  s.source       = { :git => "https://github.com/BaoBaoJianqiang/MyLib_a.git", :tag => "MyLib0.0.6" }
+  s.source       = { :git => "https://github.com/BaoBaoJianqiang/MyLib_a.git", :tag => "0.0.6" }
 
   s.ios.vendored_library = 'libMyLib.a'
   s.frameworks = "CoreGraphics", "Foundation", "UIKit"
